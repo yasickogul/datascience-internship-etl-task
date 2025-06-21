@@ -63,6 +63,7 @@ Younger users, regardless of income, are less likely to make a purchase.
 You can explore and run the analysis notebook directly in Google Colab, which is a free, browser-based Python environment.
 
 🧾 Steps:
+
 1.Open your browser and go to Google Colab
 
 2.Click on "File" > "Open notebook"
