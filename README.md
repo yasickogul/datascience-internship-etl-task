@@ -86,7 +86,7 @@ No setup or installation is needed — just a browser and an internet connection
 
 📬 Contact
 For questions or collaboration:
-Yasickogul Athiyan
+### Yasickogul Athiyan
 [LinkedIn](http://www.linkedin.com/in/yasickogul-athiyan-617a2024a)
 
 
