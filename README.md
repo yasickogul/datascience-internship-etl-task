@@ -59,9 +59,9 @@ A clear cluster of likely purchasers exists in the 35+ age and higher income ran
 
 Younger users, regardless of income, are less likely to make a purchase.
 
-#🚀 How to Run
+# 🚀 How to Run
 
-##🧾 Steps:
+## 🧾 Steps:
 
 1.Open your browser and go to Google Colab
 
