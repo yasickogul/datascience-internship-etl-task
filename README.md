@@ -70,7 +70,9 @@ Younger users, regardless of income, are less likely to make a purchase.
 4.In the search bar, paste the following GitHub repository URL: https://github.com/yasickogul/datascience-internship-etl-task
 
 5.You’ll see a list of notebooks from the repo. Click on: etl_analysis_social_ads.ipynb
+
 6.Once the notebook opens, run each cell by clicking the "play" button (▶️) or using Shift + Enter
+
 7.Run the notebook cells one by one using the play button (▶️) on the left of each cell.
 
 The dataset is automatically loaded from GitHub using this code at the top of the notebook:
